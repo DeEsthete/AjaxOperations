@@ -1,0 +1,45 @@
+﻿body {
+    /*background-color: orange;*/
+    background-color: cornflowerblue;
+    text-align: center;
+    margin: unset;
+    font-size: larger;
+}
+.header {
+    background-color: rgba(0, 0, 0, 0.63);
+    border: solid 1px black;
+    padding: 5px;
+}
+.headerButton {
+    width: 150px;
+    background-color: orange;
+    display: inline-block;
+    border: solid 1px darkorange;
+    font-size: 17px;
+    font-weight: 600;
+    font-family: 'Roboto', sans-serif;
+}
+.categories{
+    margin-top: 5px;
+}
+.categoryButton {
+    /*width: 150px;*/
+    background-color: rgb(255, 255, 255, 0.5);
+    display: inline-block;
+    border: solid 1px black;
+    margin-right: 5px;
+    font-size: 17px;
+    font-weight: 500;
+    font-family: 'Roboto', sans-serif;
+}
+.items{
+    margin-top: 13px;
+}
+.item {
+    width: 150px;
+    background-color: rgb(255, 255, 255, 0.5);
+    display: inline-block;
+    border: solid 1px black;
+    margin-right: 8px;
+    margin-top: 5px;
+}
